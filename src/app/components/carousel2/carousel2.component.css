@@ -1,0 +1,37 @@
+.person{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 50%;
+    background-image: url("https://apihilton.gftpl.in/media/testimonial_image/m.webp");
+    background-size: 298px;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+}
+.person1{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 50%;
+    background-image: url("https://apihilton.gftpl.in/media/testimonial_image/3.jpeg");
+    background-size: 298px;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+}
+.boxer{
+    border: 3px solid white;
+    box-shadow: 0px 6px gray;
+    border-radius: 25%;
+    height: 280px;
+    width: 500px;
+    color: black;
+    background-color: white;
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+}
+.innerc{
+    background-color: black;
+    width: 500px;
+    height: 700px;
+}

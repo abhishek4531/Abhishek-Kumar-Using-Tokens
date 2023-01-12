@@ -1,0 +1,73 @@
+.heading1{
+    position: sticky;
+    top: 0px;
+}
+.hlink{
+    background-color: rgba(0, 0, 0, 1);
+}
+.hlink a{
+    text-decoration: none;
+    color: black;
+}
+.hover1:hover{
+    border: 5px solid gray;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+.hover1 img:hover{
+    height: 380px;
+}
+.fys{
+    border: 5px solid rgb(232, 224, 224);
+    text-shadow: 10px -25px black;
+}
+.bgcolor{
+    background-color: rgb(183, 190, 190);
+    width: 85%;
+}
+.cr{
+    height: 430px;
+    width: 430px;
+    border: 3px solid rgb(248, 243, 243);
+    border-radius: 50%;
+    font-size: 20px;
+    background-color: white;
+    box-shadow: -1px 5px rgb(137, 133, 133);
+}
+.imgcr{
+    border: 18px solid white;
+    border-radius: 8px;
+}
+.fys1{
+    border: 5px solid rgb(138, 132, 132);
+    text-shadow: -1px -25px black;
+    color: rgb(183, 190, 190);
+}
+.bggray2{
+    background-color: rgb(144, 158, 158);
+    width: 85%;
+}
+.fys2{
+    border: 4px solid rgb(98, 96, 96);
+    width: 450px;
+    padding: 10px;
+    font-size: 21px;
+}
+.fys3{
+    border: 5px solid rgb(98, 96, 96);
+    text-shadow: -1px -24px black;
+    color: rgb(144, 158, 158);
+}
+.fdiv1 div{
+    margin-bottom: 12px;
+}
+.fdiv a{
+    text-decoration: none;
+    color: white;
+    font-size: 26px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
